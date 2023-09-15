@@ -26,10 +26,12 @@ class LinkedList
         LinkedList(LinkedList&);
         ~LinkedList();
 
-        /* methods to:
-        *insert into the list
-        *delete from the list
-        *search the list */
+        /*************************** 
+        *        methods to:
+        *   insert into the list
+        *   delete from the list
+        *   search the list 
+        ***************************/
 
         int getLength();
 
